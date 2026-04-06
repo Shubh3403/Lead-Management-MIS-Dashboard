@@ -22,7 +22,8 @@ This project is an Excel-based MIS Dashboard designed to track and analyze lead 
 - Average Deal Size
 
 ## 📷 Dashboard Preview
-(Add your screenshots here)
+<img width="1493" height="682" alt="image" src="https://github.com/user-attachments/assets/acc24eea-ca3f-4ee3-9eb9-c8148cdde83f" />
+
 
 ## 💡 Insights
 - Identified top-performing lead sources
